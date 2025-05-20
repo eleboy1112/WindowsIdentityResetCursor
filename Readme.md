@@ -47,7 +47,7 @@ The script includes error handling and creates backups of critical information b
 1. Run PowerShell as Administrator
 2. Set execution policy to allow script: `Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process`
 3. Navigate to script directory
-4. Run the script: `.\WindowsIdentityReset.ps1`
+4. Run the script: `.\reset_machine.ps1`
 5. Follow the on-screen prompts
 
 ## 🔄 What Gets Reset
